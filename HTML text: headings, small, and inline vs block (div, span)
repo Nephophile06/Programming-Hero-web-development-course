@@ -1,0 +1,17 @@
+heading tag ৬ ধরনের। 
+
+1. heading 1: <h1> </h1>
+2. heading 2: <h2> </h2>
+3. heading 3: <h3> </h3>
+4. heading 4: <h4> </h4>
+5. heading 5: <h5> </h5>
+6. heading 6: <h6> </h6>    
+
+Note:
+1 -> 6, ফন্টের সাইজ বড় থেকে ছোট হয়। h1 হলো সবথেকে বড়, h6 সবথেকে ছোট।
+
+small tag: <small> </small> [ফন্টকে সাধারণের থেকে কিছুটা ছোট করে দেখায়] 
+
+ফন্টের দুই ধরনের সাইজ আছে। এদেরকে inline আর block নামে আলাদা করা হয়। 
+1. inline -> (small, span, strong, emphasize, italic) tag [যা paragraph ট্যাগের মধ্যে লিখা হয়] এদের আকার সাধারণের থেকে ছোট তবে একে অপরের সমান।
+2. block -> (paragraph, headings, div) tag [আলাদা ব্লক তৈরি করে। লাইন ব্রেক করে প্যারাগ্রাফের মতো]
